@@ -1,3 +1,5 @@
+Link: https://www.johansmarius.dev/2023/07/writing-unit-tests-with-github-copilot.html; repo: https://github.com/JohanSmarius/DemoUnitTestingGithubCopilotChat/tree/main
+Title: Writing unit tests with GitHub Copilot
 **Add logic**
 This code does not have a lot of logic to test. So let's add some logic to the order class. I ask GitHub Copilot to generate the code for calculating the total price for an order.
 
